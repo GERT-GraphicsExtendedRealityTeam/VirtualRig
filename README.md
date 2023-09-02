@@ -1,9 +1,9 @@
 VirtualRig
 ===================================
 
-VirtualRig: embedding resizes and positions the given skeleton to fit inside the character. The character and the embedded skeleton are disconnected until skin attachment specifies how to apply deformations of the skeleton to the character mesh. The deformation methods used are Linear Blend Skinning and some Position based Dynamics constraints to add dynamics to the deformations.
+VirtualRig: Embedding resizes and positions the given skeleton to fit inside the character. The character and the embedded skeleton are disconnected until skin attachment specifies how to apply deformations of the skeleton to the character mesh. The deformation methods used are Linear Blend Skinning and some Position-based Dynamics constraints to add dynamics to the deformations.
 
-Please see the video on Vimeo for some of the animated results at an interactive rate, see this video https://vimeo.com/90705340.
+Please see the video on Vimeo for some of the animated results at an interactive rate, See this video https://vimeo.com/90705340.
 
 A list of the libraries used in the project:
 - Boost lib
